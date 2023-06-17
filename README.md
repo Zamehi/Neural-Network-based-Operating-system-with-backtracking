@@ -1,3 +1,4 @@
+![image](https://github.com/Zamehi/Neural-Network-based-Operating-system-with-backtracking/assets/129313428/097d5810-3e34-4448-8358-819c65c00715)
 # Neural-Network-based-Operating-system-with-backtracking
 sophmores + mutex +locks
 an operating system that implements a neural network architecture using separate
